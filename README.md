@@ -1,1 +1,1 @@
-# PROBLEM OF THE DYA (Geeks for Geeks)
+# PROBLEM OF THE DAY (Geeks for Geeks)
